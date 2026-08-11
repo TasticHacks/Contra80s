@@ -37,7 +37,7 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 3.	**Unzip and Place HD Pack Folder in Correct Location**
 	* unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
-		*	ROM name:  `Contra (U) [!].nes`
+		*	ROM name:  **`Contra (U) [!].nes`**
 		*	Folder: `C:\Users\bob\Documents\Mesen2\HdPacks\Contra (U) [!]\hires.txt`
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
 		* <img src="images/Mesen-EnableHDPacks-1.png" width="40%">
@@ -49,7 +49,7 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 		* name the sub-directory with the HD pack for each game in a folder named directly after the ROM filename, example:
 			*	ROM name:  `Contra (U) [!].nes`
 			*	Folder:  `/home/pi/RetroPie/BIOS/HdPacks/Contra (U) [!]/hires.txt`
-	* **Renaming** - So if you want to rename the ROM to something like:
+	* **Renaming** - So if you want to rename the ROM to something else, you must also rename the HD pack folder name the same:
 		*	New ROM name:  `Contra80s.nes`
 		*	New HD pack folder path:  `/home/pi/RetroPie/BIOS/HdPacks/Contra80s/hires.txt`
 	* Run the game in Mesen emulator:
@@ -63,7 +63,7 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 			*	<img src="images/RaspPi-lr-mesen-enableHDPacks-1.png" width="40%">
   
 # Credits
-Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though over 20k lines of code in the `hires.txt` file later, very little remains from that original effort from 2021.  Aclectico has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
+Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though **over 20k lines of code** in the `hires.txt` file later, very little remains from that original effort from 2021.  Aclectico has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
 
 The bulk of the code for Contra 80s was generated manually, although AI was used to help with a few select portions related to parallax background scrolling and animations using the `frameRange` functions.
 
