@@ -23,8 +23,8 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 2. **Find Correct ROM Game file**
 	  *	be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the original, unaltered Nintendo game.
 	  *	Example: the correct ROM to use with Contra 80s to use has a:
- 			* Filename:  `Contra (U) [!].nes`
- 			* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
+	  *	Filename:  `Contra (U) [!].nes`
+	  *	Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	  *	Find where ever ROMs are found
 3.	**Unzip and Place HD Pack Folder in Correct Location**
 	  *	unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
