@@ -7,7 +7,7 @@
 
 # About the ROM Hack:
 > [!NOTE]
-> Mesen is a free Nintendo Entertainment System (NES) emulator.  Mesen HD Packs are fan-made mods that replace a game’s original 8-bit graphics with high-definition textures, custom sprites, and enhanced audio in real time.  
+> [Mesen](https://www.mesen.ca/) is a free Nintendo Entertainment System (NES) emulator.  [Mesen HD Packs](https://github.com/SourMesen/Mesen/blob/master/Docs/content/hdpacks/_index.md) are fan-made mods that replace a game’s original 8-bit graphics with high-definition textures, custom sprites, and enhanced audio in real time.  
 > 
 > Contra 80s is a free Mesen HD Pack by developed by Tastic for the original Contra (1988) on the NES.  
 > 
@@ -21,10 +21,10 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 	  *	Download and install the Mesen NES emulator and use it to play the Contra ROM. Game file.
 	  *	Downloads: https://www.mesen.ca/
 2. **Find Correct ROM Game file**
-	  *	be sure to find that correct game ROM file that matches the specified SHA1 hash and play it using the Mesen emulator.  This ROM is the original, unaltered Nintendo game.
+	  *	be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the original, unaltered Nintendo game.
 	  *	Example: the correct ROM to use with Contra 80s to use has a:
-   		* Filename:  `Contra (U) [!].nes`
-   		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
+ 			* Filename:  `Contra (U) [!].nes`
+ 			* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	  *	Find where ever ROMs are found
 3.	**Unzip and Place HD Pack Folder in Correct Location**
 	  *	unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
@@ -54,3 +54,12 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 		*	Press `Select+X(North)` to while playing to enter RetroArch menu
 			*	Go to `Core Options -> Video -> Enable HD Packs = On`
 			*	<img src="images/RaspPi-lr-mesen-enableHDPacks-1.png" width="40%">
+  
+# Credits
+Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though over 20k lines of code in the `hires.txt` file later, very little remains from that original effort from 2021.  Aclectico has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
+
+The bulk of the code for Contra 80s was generated manually, although AI was used to help with a few select portions related to parallax background scrolling and animations using the `frameRange` functions.
+
+ChatGPT and Gemini were used to create most of the images used throughout, for the HD replacement graphics of backgrounds and character sprites.  Creating prompts that actually generated useful images took quite a bit of effort – which is a massive understatement.  I’m happy to report that AI isn’t nearly as close to being smart enough to defeat mankind anytime soon, despite what the news would have you believe.
+
+Lastly, I must credit the entire 1980’s for being awesome – especially the movies: Predator, Aliens, Terminator, The Thing, and Star Wars.  Thanks to Arnold and Sly.  And of course, thanks to the legendary creators of the NES game masterpiece: Contra.
