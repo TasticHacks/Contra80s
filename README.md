@@ -18,22 +18,21 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 # Mesen HD Packs – Installing and Using
 In general, you can install and use Mesen HD Packs by doing the following 3 steps:
 1. **Install the MESEN NES emulator**
-	  *	Download and install the Mesen NES emulator and use it to play the Contra ROM. Game file.
-	  *	Downloads: https://www.mesen.ca/
+	* Download and install the Mesen NES emulator and use it to play the Contra ROM. Game file.
+	* Downloads: https://www.mesen.ca/
 2. **Find Correct ROM Game file**
-	  *	be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
-	  *	Example: the correct ROM to use with Contra 80s to use has a:
-	  *	Filename:  `Contra (U) [!].nes`
-	  *	Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
-	  *	Find where ever ROMs are found
+	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
+	* Example: the correct ROM to use with Contra 80s to use has a:
+		* Filename:  `Contra (U) [!].nes`
+		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
+	* Find where ever ROMs are found
 3.	**Unzip and Place HD Pack Folder in Correct Location**
-	  *	unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
-	  *	The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
-			*	ROM name:  `Contra (U) [!].nes`
-			*	Folder: `C:\Users\bob\Documents\Mesen2\HdPacks\Contra (U) [!]\hires.txt`
-    * Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
-       * <img src="images/Mesen-EnableHDPacks-1.png" width="40%">
-
+	* unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
+	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
+		*	ROM name:  `Contra (U) [!].nes`
+		*	Folder: `C:\Users\bob\Documents\Mesen2\HdPacks\Contra (U) [!]\hires.txt`
+	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
+		* <img src="images/Mesen-EnableHDPacks-1.png" width="40%">
    
 ## RetroPie (Raspberry Pi) - Usage / Install:
 * If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
@@ -63,3 +62,20 @@ The bulk of the code for Contra 80s was generated manually, although AI was used
 ChatGPT and Gemini were used to create most of the images used throughout, for the HD replacement graphics of backgrounds and character sprites.  Creating prompts that actually generated useful images took quite a bit of effort – which is a massive understatement.  I’m happy to report that AI isn’t nearly as close to being smart enough to defeat mankind anytime soon, despite what the news would have you believe.
 
 Lastly, I must credit the entire 1980’s for being awesome – especially the movies: Predator, Aliens, Terminator, The Thing, and Star Wars.  Thanks to Arnold and Sly.  And of course, thanks to the legendary creators of the NES game masterpiece: Contra.
+
+# Resources
+* File Hashing Utility (free) – for checking SHA1 hashes:
+	* [HashMyFiles: Calculate MD5/SHA1/CRC32 hash of files - Nirsoft.net](https://www.nirsoft.net/utils/hash_my_files.html)
+* Game Metadata / Scrape Images:
+	* https://www.screenscraper.fr/ 
+* Contra (NES) – references:
+	* [Contra (NES)/RAM map - Data Crystal ](https://datacrystal.tcrf.net/wiki/Contra_(NES)/RAM_map)
+	* https://nesmaps.com/maps/Contra/Contra.html 
+* Mesen – Nintendo (NES) Emulator:
+	* https://www.mesen.ca/ 
+* Mesen – HD Packs (replacement graphics for games):
+	* [HDPacks · SourMesen/Mesen · GitHub](https://github.com/SourMesen/Mesen/blob/master/Docs/content/hdpacks/_index.md)
+	* https://www.mesen.ca/docs/hdpacks.html 
+	* [Playlist - Mesen HD Pack Creation Tutorials - YouTube ](https://www.youtube.com/playlist?list=PLutcrmbHORxWzV4r22NV_qGs98GaisStr)
+	* [FYI - using game HD Texture packs on RetroPie - RetroPie Forum](https://retropie.org.uk/forum/topic/37467/fyi-using-game-hd-texture-packs-on-retropie)
+
