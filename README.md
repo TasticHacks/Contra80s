@@ -1,4 +1,4 @@
-# Contra80s
+# Contra 80s - by Tastic (Mesen HD Pack)
 ![Contra80s - Logo](images/contra80s-wheel-alt1.png)
 # Description
 > Contra 80s is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
