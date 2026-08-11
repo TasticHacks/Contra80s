@@ -3,15 +3,15 @@
 # Description
 > Contra 80s is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
 > 
-> With the 40th anniversary of both Aliens and Predator upon us, time feels right to unleash this hard-hitting 80s update to this NES classic.  So lock & load, and remember… _if it bleeds, we can kill it!_  
+> With the 40th anniversary of both Aliens and Predator upon us, time feels right to unleash this hard-hitting 80s update to this NES classic.  So lock & load, and remember… **_if it bleeds, we can kill it!_**  
 
 # About the ROM Hack:
 > [!NOTE]
 > [Mesen](https://www.mesen.ca/) is a free Nintendo Entertainment System (NES) emulator.  [Mesen HD Packs](https://github.com/SourMesen/Mesen/blob/master/Docs/content/hdpacks/_index.md) are fan-made mods that replace a game’s original 8-bit graphics with high-definition textures, custom sprites, and enhanced audio in real time.  
 > 
-> Contra 80s is a free Mesen HD Pack by developed by Tastic for the original Contra (1988) on the NES.  
+> **Contra 80s** is a free Mesen HD Pack by developed by Tastic for the original Contra (1988) on the NES.  
 > 
-> This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mesen emulator.  Players 1 & 2 sprites have been replaced by Dutch (Arnold) from Predator and Rambo.  All 8 stage levels and enemies have been replaced with new HD backgrounds, inspired by various 80s movies.  Title cards have been added before stages, tying together a new storyline that weaves in the 80’s movies into a single game narrative.  
+This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mesen emulator.  Players 1 & 2 sprites have been replaced by Dutch (Arnold) from Predator and Rambo.  All 8 stage levels and enemies have been replaced with new HD backgrounds, inspired by various 80s movies.  Title cards have been added before stages, tying together a new storyline that weaves in the 80’s movies into a single game narrative.  
 
 <br>
 
@@ -21,7 +21,7 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 	  *	Download and install the Mesen NES emulator and use it to play the Contra ROM. Game file.
 	  *	Downloads: https://www.mesen.ca/
 2. **Find Correct ROM Game file**
-	  *	be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the original, unaltered Nintendo game.
+	  *	be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
 	  *	Example: the correct ROM to use with Contra 80s to use has a:
 	  *	Filename:  `Contra (U) [!].nes`
 	  *	Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
@@ -42,7 +42,7 @@ In general, you can install and use Mesen HD Packs by doing the following 3 step
 		* name the sub-directory with the HD pack for each game in a folder named directly after the ROM filename, example:
 			*	ROM name:  `Contra (U) [!].nes`
 			*	Folder:  `/home/pi/RetroPie/BIOS/HdPacks/Contra (U) [!]/hires.txt`
-	* Renaming - So if you want to rename the ROM to something like:
+	* **Renaming** - So if you want to rename the ROM to something like:
 		*	New ROM name:  `Contra80s.nes`
 		*	New HD pack folder path:  `/home/pi/RetroPie/BIOS/HdPacks/Contra80s/hires.txt`
 	* Run the game in Mesen emulator:
