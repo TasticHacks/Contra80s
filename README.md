@@ -1,10 +1,16 @@
 # Contra 80s - by Tastic (Mesen HD Pack)
 ![Contra80s - Logo](images/contra80s-wheel-alt1.png)
 
+## ⬇️ Download
 > [!IMPORTANT]
 > **DOWNLOAD:** [Contra80s v1.0 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
 
-## 🎬 Launch Trailer
+# Description
+> Contra 80s is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
+> 
+> With the 40th anniversary of both Aliens and Predator upon us, time feels right to unleash this hard-hitting 80s update to this NES classic.  So lock & load, and remember… **_if it bleeds, we can kill it!_**  
+
+## 🎬 Videos - Launch Trailer & Quick Start Guide
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Ho1-30w41RU">
@@ -15,16 +21,9 @@
   </a>
 </p>
 
-**▶️ Click the image above to watch the launch trailer**
+* [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
 
-## ⬇️ Download
-**DOWNLOAD:** [Contra80s v1.0 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
-
-# Description
-> Contra 80s is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
-> 
-> With the 40th anniversary of both Aliens and Predator upon us, time feels right to unleash this hard-hitting 80s update to this NES classic.  So lock & load, and remember… **_if it bleeds, we can kill it!_**  
-
+## :camera: Screenshots
 <details>
 <summary><strong>📸 View Screenshots</strong></summary>
 
@@ -70,7 +69,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	*	Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
 	*	File SHA-1: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	*	File CRC32: `C50A8304`
- *	**Note**:  ROM can be found where ever ROMs are found.
+ *	**Note**: :mag: ROM can be found where ever ROMs are found.
 
 
 <br>
@@ -91,7 +90,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* Example: the correct ROM to use with Contra 80s to use has a:
 		* Filename:  `Contra (U) [!].nes`
 		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
-	* Find where ever ROMs are found
+	* Find where ever ROMs are found :mag:
 3.	**Unzip and Place HD Pack Folder in Correct Location & Play**
 	* unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
@@ -99,6 +98,9 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 		*	Folder: `C:\Users\bob\Documents\Mesen2\HdPacks\Contra (U) [!]\hires.txt`
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
 		* <img src="images/Mesen-EnableHDPacks-1.png" width="40%">
+	* Other Settings - Recommended:
+		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
+		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
    
 ## RetroPie (Raspberry Pi) - Usage / Install:
 * If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
