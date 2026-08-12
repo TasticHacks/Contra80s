@@ -50,7 +50,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > In general, you can install and use Mesen HD Packs by doing the following <ins>3 steps</ins>:
 > 1. **Install the MESEN NES emulator**
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
-> 3. **Unzip and Place HD Pack Folder in Correct Location**
+> 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
 
 ## 3 Steps - Install and Play - More Detail:
 1. **Install the MESEN NES emulator**
@@ -62,7 +62,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 		* Filename:  `Contra (U) [!].nes`
 		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	* Find where ever ROMs are found
-3.	**Unzip and Place HD Pack Folder in Correct Location**
+3.	**Unzip and Place HD Pack Folder in Correct Location & Play**
 	* unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
 		*	ROM name:  **`Contra (U) [!].nes`**
