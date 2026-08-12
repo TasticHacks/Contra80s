@@ -102,7 +102,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
 		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
    
-## RetroPie (Raspberry Pi) - Usage / Install:
+## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
 * If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
 	* place HD packs in folder:
 		*	`/home/pi/RetroPie/BIOS/HdPacks/`
