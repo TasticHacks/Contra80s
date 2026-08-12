@@ -5,7 +5,6 @@
 > **DOWNLOAD:** [Contra80s v1.0 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
 
 ## 🎬 Launch Trailer
-[![Contra 80s - Launch Trailer](https://img.youtube.com/vi/MB-LQnHkxGg/maxresdefault.jpg)](https://www.youtube.com/watch?v=MB-LQnHkxGg)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=BvsUnWXC2Ls">
@@ -46,7 +45,13 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 <br>
 
 # Mesen HD Packs – Installing and Using
-In general, you can install and use Mesen HD Packs by doing the following 3 steps:
+> [!NOTE]
+> In general, you can install and use Mesen HD Packs by doing the following <ins>3 steps</ins>:
+> 1. **Install the MESEN NES emulator**
+> 2. **Find Correct ROM Game file (unaltered Contra ROM)**
+> 3. **Unzip and Place HD Pack Folder in Correct Location**
+
+## 3 Steps - Install and Play - More Detail:
 1. **Install the MESEN NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM. Game file.
 	* Downloads: https://www.mesen.ca/
