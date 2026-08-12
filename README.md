@@ -69,7 +69,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	*	Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
 	*	File SHA-1: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	*	File CRC32: `C50A8304`
- *	**Note**: :mag: ROM can be found where ever ROMs are found.
+ *	**Note**: :mag: ROM can be found where ever ROMs are found.  :suspect:
 
 
 <br>
