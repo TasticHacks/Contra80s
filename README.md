@@ -74,7 +74,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 <br>
 
-# Mesen HD Packs – Installing and Using
+# 🛠️ Mesen HD Packs – Installing and Using
 > [!NOTE]
 > In general, you can install and use Mesen HD Packs by doing the following <ins>3 steps</ins>:
 > 1. **Install the MESEN NES emulator**
@@ -90,7 +90,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* Example: the correct ROM to use with Contra 80s to use has a:
 		* Filename:  `Contra (U) [!].nes`
 		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
-	* Find where ever ROMs are found :mag:
+	* Find where ever ROMs are found :mag: 👀 
 3.	**Unzip and Place HD Pack Folder in Correct Location & Play**
 	* unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
@@ -122,7 +122,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 			*	Go to `Core Options -> Video -> Enable HD Packs = On`
 			*	<img src="images/RaspPi-lr-mesen-enableHDPacks-1.png" width="40%">
   
-# Credits
+# 🙏 Credits
 Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though <ins>**over 20k lines of code**</ins> in the `hires.txt` file later, very little remains from that original effort from 2021.  Aclectico has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
 
 The bulk of the code for Contra 80s was generated manually, although AI was used to help with a few select portions related to parallax background scrolling and animations using the `frameRange` functions.
@@ -131,7 +131,7 @@ ChatGPT and Gemini were used to create most of the images used throughout, for t
 
 Lastly, I must credit the entire 1980’s for being awesome – especially the movies: Predator, Aliens, Terminator, The Thing, and Star Wars.  Thanks to Arnold and Sly.  And of course, thanks to the legendary creators of the NES game masterpiece: Contra.
 
-# Resources
+# 🔗 Resources
 * File Hashing Utility (free) – for checking SHA1 hashes:
 	* [HashMyFiles: Calculate MD5/SHA1/CRC32 hash of files - Nirsoft.net](https://www.nirsoft.net/utils/hash_my_files.html)
 * Game Metadata / Scrape Images:
