@@ -25,6 +25,36 @@
 > 
 > With the 40th anniversary of both Aliens and Predator upon us, time feels right to unleash this hard-hitting 80s update to this NES classic.  So lock & load, and remember… **_if it bleeds, we can kill it!_**  
 
+<details>
+<summary><strong>📸 View Screenshots</strong></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-Title.png"><img src="screenshots/Contra80s-Screenshot-Larger-Title.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-1.png"><img src="screenshots/Contra80s-Screenshot-Larger-1.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-2.png"><img src="screenshots/Contra80s-Screenshot-Larger-2.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-2a.png"><img src="screenshots/Contra80s-Screenshot-Larger-2a.png" width="220"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-3.png"><img src="screenshots/Contra80s-Screenshot-Larger-3.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-4.png"><img src="screenshots/Contra80s-Screenshot-Larger-4.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-5.png"><img src="screenshots/Contra80s-Screenshot-Larger-5.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-6.png"><img src="screenshots/Contra80s-Screenshot-Larger-6.png" width="220"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-7.png"><img src="screenshots/Contra80s-Screenshot-Larger-7.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-Screenshot-Larger-8.png"><img src="screenshots/Contra80s-Screenshot-Larger-8.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-StageIntro-Larger-5.png"><img src="screenshots/Contra80s-StageIntro-Larger-5.png" width="220"></a></td>
+    <td><a href="screenshots/Contra80s-StageIntro-Larger-7.png"><img src="screenshots/Contra80s-StageIntro-Larger-7.png" width="220"></a></td>
+  </tr>
+</table>
+
+</details>
+
 
 # About the ROM Hack:
 > [!NOTE]
