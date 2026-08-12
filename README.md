@@ -40,6 +40,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	*	Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
 	*	File SHA-1: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	*	File CRC32: `C50A8304`
+ *	**Note**:  ROM can be found where ever ROMs are found.
 
 
 <br>
@@ -90,7 +91,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 			*	<img src="images/RaspPi-lr-mesen-enableHDPacks-1.png" width="40%">
   
 # Credits
-Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though **over 20k lines of code** in the `hires.txt` file later, very little remains from that original effort from 2021.  Aclectico has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
+Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though <ins>**over 20k lines of code**</ins> in the `hires.txt` file later, very little remains from that original effort from 2021.  Aclectico has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
 
 The bulk of the code for Contra 80s was generated manually, although AI was used to help with a few select portions related to parallax background scrolling and animations using the `frameRange` functions.
 
