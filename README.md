@@ -1,5 +1,5 @@
 # Contra 80s - by Tastic (Mesen HD Pack)
-<img src="images/Contra80s-Banner-2.png" width="55%" />
+<img src="images/Contra80s-Banner-2.png" width="60%" />
 
 ## ⬇️ Download
 > [!IMPORTANT]
