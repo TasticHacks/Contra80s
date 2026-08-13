@@ -69,7 +69,7 @@
 > 
 This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mesen emulator.  Players 1 & 2 sprites have been replaced by Dutch (Arnold) from Predator and Rambo.  All 8 stage levels and enemies have been replaced with new HD backgrounds, inspired by various 80s movies.  Title cards have been added before stages, tying together a new storyline that weaves in the 80’s movies into a single game narrative.  
 
-## 💾 **ROM / ISO Information – this HD pack works with the following NES ROM:**
+## 💾 **ROM / ISO Information – this HD pack works with the following ROM:**
 * **`Contra (U) [!].nes`**
 	*	Database match: Contra (USA)
 	*	Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
@@ -87,11 +87,14 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > 1. **Install the Mesen NES emulator**
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
+>
+> <img src="images/Contra80s-QuickStart-3Steps-1.png" width="40%">
 
 ## 🖥️ MS Windows - 3 Steps - Install and Play - More Detail:
 1. **Install the Mesen NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
 	* Downloads: https://www.mesen.ca/
+		* <img src="images/Mesen-Installs-Aug2026-1.png" width="20%">
 2. **Find Correct ROM Game file**
 	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
 	* Example: the correct ROM to use with Contra 80s to use has a:
@@ -108,6 +111,40 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* Other Settings - Recommended:
 		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
 		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
+<br>
+
+
+## 📱 Mobile Devices - RetroArch w Mesen - Usage / Install:
+1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
+	* Download and install the RetroArch emulator and use it to play the Contra ROM game file.
+		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1.png" width="20%" /> </a>
+	* Mobile apps:
+		* https://www.retroarch.com/
+		* ‎[RetroArch App - App Store - Apple.com](https://apps.apple.com/us/app/retroarch/id6499539433)
+		* [RetroArch Plus - Apps on Google Play](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1)
+		* [RetroArch on Steam](https://store.steampowered.com/app/1118310/RetroArch/)
+		* [RetroArch - App on Amazon Appstore](https://www.amazon.com/dp/B09753XRVF)
+
+2. **Find Correct ROM Game file**
+	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
+	* Example: the correct ROM to use with Contra 80s to use has a:
+		* Filename:  `Contra (U) [!].nes`
+		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
+	* Find where ever ROMs are found :mag: 👀 
+3.	**Unzip and Place HD Pack Folder in Correct Location & Play**
+	* unzip and place the HD Pack folder in the correct location being used by the RetroArch's Mesen emulator for HD Packs.
+	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
+		*	ROM name:  **`Contra (U) [!].nes`**
+		*	Apple: `RetroArch\RetroArch\system\HdPacks\Contra (U) [!]\hires.txt`
+			*	<img src="images/iPad-HDPacks-FolderLocation-1.PNG" width="30%">&nbsp;&nbsp; <img src="images/iPad-RetroArch-Contra80s-Playing-1.PNG" width="28%">
+		*	<ins>Note</ins>: you may have to create the `\HdPacks\` folder (case sensitive)
+	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
+		* <img src="images/iPad-RetroArch-Mesen-Settings-1.PNG" width="35%">
+	* Other Settings - Recommended:
+		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
+		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
+
+
 <br>
 
 ## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
