@@ -153,6 +153,7 @@ If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
 	* For RetroPie, use the [lr-mesen](https://github.com/libretro/Mesen) emulator
 	* In EmulationStation, go to `RETROPIE -> RETROPIE SETUP -> Manage packages -> exp-Manage Experimental Packages -> 111. lr-mesen` and install the package
+		* <img src="images/RaspPi-Install_lr-Mesen-1a.png" width="40%">
 2. **Find Correct ROM Game file**
 	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
 	* Example: the correct ROM to use with Contra 80s to use has a:
@@ -176,7 +177,7 @@ If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [
 			*	Go to `Core Options -> Video -> Enable HD Packs = On`
 			*	<img src="images/RaspPi-lr-mesen-enableHDPacks-1.png" width="40%">
 	* Other Settings - Recommended:
-		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
+		* Remove Sprite limit, see `Core Options -> Video -> Remove Sprite Limit = On`
 		* :video_game: configure your gaming controller if needed
 
 <br>
@@ -193,6 +194,9 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 <br>
 
 # 🔗 Resource Links
+* Contra 80’s – By Tastic (Mesen HD Pack):
+	* https://github.com/TasticHacks/Contra80s
+	* [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
 * File Hashing Utility (free) – for checking SHA1 hashes:
 	* [HashMyFiles: Calculate MD5/SHA1/CRC32 hash of files - Nirsoft.net](https://www.nirsoft.net/utils/hash_my_files.html)
 * Game Metadata / Scrape Images:
@@ -207,4 +211,15 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 	* https://www.mesen.ca/docs/hdpacks.html 
 	* [Playlist - Mesen HD Pack Creation Tutorials - YouTube ](https://www.youtube.com/playlist?list=PLutcrmbHORxWzV4r22NV_qGs98GaisStr)
 	* [FYI - using game HD Texture packs on RetroPie - RetroPie Forum](https://retropie.org.uk/forum/topic/37467/fyi-using-game-hd-texture-packs-on-retropie)
+* Mesen – lr-mesen – RetroArch Core:
+	* https://github.com/libretro/Mesen 
+	* https://github.com/nesdev-org/MesenCE/ 
+	* https://retropie.org.uk/docs/Nintendo-Entertainment-System/ 
+* RetroArch – Mobile -  iPhone/iPad – Plays lr-mesen core:
+	* https://www.retroarch.com/
+	* ‎[RetroArch App - App Store - Apple.com](https://apps.apple.com/us/app/retroarch/id6499539433)
+	* [RetroArch Plus - Apps on Google Play](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1)
+	* [RetroArch on Steam](https://store.steampowered.com/app/1118310/RetroArch/)
+	* [RetroArch - App on Amazon Appstore](https://www.amazon.com/dp/B09753XRVF)
+
 
