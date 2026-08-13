@@ -63,7 +63,7 @@
 > 
 This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mesen emulator.  Players 1 & 2 sprites have been replaced by Dutch (Arnold) from Predator and Rambo.  All 8 stage levels and enemies have been replaced with new HD backgrounds, inspired by various 80s movies.  Title cards have been added before stages, tying together a new storyline that weaves in the 80’s movies into a single game narrative.  
 
-**ROM / ISO Information – this HD pack works with the following NES ROM:**
+## **ROM / ISO Information – this HD pack works with the following NES ROM:**
 * **`Contra (U) [!].nes`**
 	*	Database match: Contra (USA)
 	*	Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
@@ -82,7 +82,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
 
-## 3 Steps - Install and Play - More Detail:
+## MS Windows - 3 Steps - Install and Play - More Detail:
 1. **Install the MESEN NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
 	* Downloads: https://www.mesen.ca/
