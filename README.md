@@ -83,7 +83,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 # 🛠️ Mesen HD Packs – Installing and Using
 > [!NOTE]
-> <ins>3 Steps</ins> - In general, you can install and use Mesen HD Packs by doing the following 3 steps:
+> <ins>**3 Steps**</ins> - In general, you can install and use Mesen HD Packs by doing the following 3 steps:
 > 1. **Install the Mesen NES emulator**
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
@@ -114,7 +114,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 <br>
 
 
-## 📱 Mobile Devices - RetroArch w Mesen - Usage / Install:
+## 📱 Mobile Devices - RetroArch w Mesen Core Loaded - Usage / Install:
 1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
 	* Download and install the **<ins>RetroArch emulator</ins>**, loading the **<ins>Mesen core</ins>**, and use it to play the Contra ROM game file.
 		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1.png" width="25%" /> </a>  <img src="images/iPad-RetroArch-LoadCore-Mesen-1.png" width="30%">
@@ -143,6 +143,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* Other Settings - Recommended:
 		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
 		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
+			*	**Game Controllers** - can be [connected to mobile devices](https://www.8bitdo.com/apple/) via Bluetooth typically, and configured in RetroArch
 
 
 <br>
@@ -166,12 +167,13 @@ If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [
 		* name the sub-directory with the HD pack for each game in a folder named directly after the ROM filename, example:
 			*	ROM name:  `Contra (U) [!].nes`
 			*	Folder:  `/home/pi/RetroPie/BIOS/HdPacks/Contra (U) [!]/hires.txt`
-	* **Renaming** - So if you want to rename the ROM to something else, you must also rename the HD pack folder name the same:
+	* <ins>**Renaming ROM Filename**</ins> - So if you want to rename the ROM to something else, you must also rename the HD pack folder name the same:
 		*	New ROM name:  `Contra80s.nes`
 		*	New HD pack folder path:  `/home/pi/RetroPie/BIOS/HdPacks/Contra80s/hires.txt`
 	* Run the game in Mesen emulator:
 		*	`lr-mesen`
-			*	<img src="images/RaspPi-lr-mesen-1.png" width="40%">
+			*	<img src="images/RaspPi-lr-mesen-1a.png" width="40%">
+			*	[YouTube - Specifying which emulator a game uses you run it](https://www.youtube.com/watch?v=PHxHNQeaXQw&t=42s)
 	* enable loading of HD Packs within the RetroArch menu while running the game
 		*	Press `Select+X(North)` to while playing to enter RetroArch menu
 			*	Go to `Core Options -> Video -> Enable HD Packs = On`
@@ -217,6 +219,7 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 	* https://retropie.org.uk/docs/Nintendo-Entertainment-System/ 
 * RetroArch – Mobile -  iPhone/iPad – Plays lr-mesen core:
 	* https://www.retroarch.com/
+	* Game Controllers and Mobile Devices - https://www.8bitdo.com/apple/
 	* ‎[RetroArch App - App Store - Apple.com](https://apps.apple.com/us/app/retroarch/id6499539433)
 	* [RetroArch Plus - Apps on Google Play](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1)
 	* [RetroArch on Steam](https://store.steampowered.com/app/1118310/RetroArch/)
