@@ -116,8 +116,8 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 ## 📱 Mobile Devices - RetroArch w Mesen - Usage / Install:
 1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
-	* Download and install the RetroArch emulator and use it to play the Contra ROM game file.
-		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1.png" width="20%" /> </a>
+	* Download and install the **<ins>RetroArch emulator</ins>**, loading the **<ins>Mesen core</ins>**, and use it to play the Contra ROM game file.
+		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1.png" width="25%" /> </a>  <img src="images/iPad-RetroArch-LoadCore-Mesen-1.png" width="30%">
 	* Mobile apps:
 		* https://www.retroarch.com/
 		* ‎[RetroArch App - App Store - Apple.com](https://apps.apple.com/us/app/retroarch/id6499539433)
@@ -136,7 +136,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
 		*	ROM name:  **`Contra (U) [!].nes`**
 		*	Apple: `RetroArch\RetroArch\system\HdPacks\Contra (U) [!]\hires.txt`
-			*	<img src="images/iPad-HDPacks-FolderLocation-1.PNG" width="30%">&nbsp;&nbsp; <img src="images/iPad-RetroArch-Contra80s-Playing-1.PNG" width="28%">
+			*	<img src="images/iPad-HDPacks-FolderLocation-1a.png" width="30%">&nbsp;&nbsp; <img src="images/iPad-RetroArch-Contra80s-Playing-1.PNG" width="28%">
 		*	<ins>Note</ins>: you may have to create the `\HdPacks\` folder (case sensitive)
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
 		* <img src="images/iPad-RetroArch-Mesen-Settings-1.PNG" width="35%">
