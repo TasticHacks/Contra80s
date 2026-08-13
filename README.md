@@ -173,7 +173,7 @@ If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [
 	* Run the game in Mesen emulator:
 		*	`lr-mesen`
 			*	<img src="images/RaspPi-lr-mesen-1a.png" width="40%">
-			*	[YouTube - Specifying which emulator a game uses you run it](https://www.youtube.com/watch?v=PHxHNQeaXQw&t=42s)
+			*	[YouTube - RetroPie - Specifying which emulator a game when uses you run it](https://www.youtube.com/watch?v=PHxHNQeaXQw&t=42s)
 	* enable loading of HD Packs within the RetroArch menu while running the game
 		*	Press `Select+X(North)` to while playing to enter RetroArch menu
 			*	Go to `Core Options -> Video -> Enable HD Packs = On`
