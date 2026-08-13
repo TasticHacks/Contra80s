@@ -135,7 +135,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* unzip and place the HD Pack folder in the correct location being used by the RetroArch's Mesen emulator for HD Packs.
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
 		*	ROM name:  **`Contra (U) [!].nes`**
-		*	Apple: `RetroArch\RetroArch\system\HdPacks\Contra (U) [!]\hires.txt`
+		*	<ins>Apple</ins>: `RetroArch\RetroArch\system\HdPacks\Contra (U) [!]\hires.txt`
 			*	<img src="images/iPad-HDPacks-FolderLocation-1a.png" width="30%">&nbsp;&nbsp; <img src="images/iPad-RetroArch-Contra80s-Playing-1.PNG" width="28%">
 		*	<ins>Note</ins>: you may have to create the `\HdPacks\` folder (case sensitive)
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
