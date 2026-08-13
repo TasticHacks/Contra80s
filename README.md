@@ -88,7 +88,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
 >
-> <img src="images/Contra80s-QuickStart-3Steps-1.png" width="40%">
+> <img src="images/Contra80s-QuickStart-3Steps-1.png" width="50%">
 
 ## 🖥️ MS Windows - 3 Steps - Install and Play - More Detail:
 1. **Install the Mesen NES emulator**
