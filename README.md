@@ -25,10 +25,6 @@
 
 
 ## :camera: Screenshots
-<details>
-<summary><strong>📸 View Screenshots - CLICK to Expand</strong></summary>
-
-<br>
 
 <table>
   <tr>
@@ -37,6 +33,14 @@
     <td><a href="screenshots/Contra80s-Screenshot-Larger-2.png"><img src="screenshots/Contra80s-Screenshot-Larger-2.png" width="220"></a></td>
     <td><a href="screenshots/Contra80s-Screenshot-Larger-2a.png"><img src="screenshots/Contra80s-Screenshot-Larger-2a.png" width="220"></a></td>
   </tr>
+</table>
+
+<details>
+<summary><strong>📸 View Screenshots - CLICK to Expand More Screenshots</strong></summary>
+
+<br>
+
+<table>
 
   <tr>
     <td><a href="screenshots/Contra80s-Screenshot-Larger-3.png"><img src="screenshots/Contra80s-Screenshot-Larger-3.png" width="220"></a></td>
@@ -110,7 +114,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
 1. **Install the Mesen NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
-	* For RetroPie, use the lr-mesen emulator
+	* For RetroPie, use the [lr-mesen](https://github.com/libretro/Mesen) emulator
 	* In EmulationStation, go to `RETROPIE -> RETROPIE SETUP -> Manage packages -> exp-Manage Experimental Packages -> 111. lr-mesen` and install the package
 2. **Find Correct ROM Game file**
 	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
