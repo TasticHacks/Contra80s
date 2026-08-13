@@ -23,9 +23,10 @@
 
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
 
+
 ## :camera: Screenshots
 <details>
-<summary><strong>📸 View Screenshots</strong></summary>
+<summary><strong>📸 View Screenshots - CLICK to Expand</strong></summary>
 
 <br>
 
@@ -54,6 +55,7 @@
 
 </details>
 
+<br>
 
 # 📦 About the ROM Hack (Mesen HD Pack):
 > [!NOTE]
@@ -69,21 +71,21 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	*	Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
 	*	File SHA-1: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	*	File CRC32: `C50A8304`
- *	**Note**: :mag: ROM can be found where ever ROMs are found.  :suspect:
- *	**Note 2**: there are different versions of this ROM (e.g. USA ,Japan, etc.), this step is to ensure you have correct ROM file that is compatible with Contra 80s.
+ *	<ins>**Note**</ins>: :mag: ROM can be found where ever ROMs are found.  :suspect:
+ *	<ins>**Note 2**</ins>: there are different versions of this ROM (e.g. USA ,Japan, etc.), this step is to ensure you have correct ROM file that is compatible with Contra 80s.
 
 
 <br>
 
 # 🛠️ Mesen HD Packs – Installing and Using
 > [!NOTE]
-> In general, you can install and use Mesen HD Packs by doing the following <ins>3 steps</ins>:
-> 1. **Install the MESEN NES emulator**
+> <ins>3 Steps</ins> - In general, you can install and use Mesen HD Packs by doing the following 3 steps:
+> 1. **Install the Mesen NES emulator**
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
 
 ## 🖥️ MS Windows - 3 Steps - Install and Play - More Detail:
-1. **Install the MESEN NES emulator**
+1. **Install the Mesen NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
 	* Downloads: https://www.mesen.ca/
 2. **Find Correct ROM Game file**
@@ -102,9 +104,21 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* Other Settings - Recommended:
 		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
 		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
-   
+<br>
+
 ## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
-* If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
+If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
+1. **Install the Mesen NES emulator**
+	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
+	* For RetroPie, use the lr-mesen emulator
+	* In EmulationStation, go to `RETROPIE -> RETROPIE SETUP -> Manage packages -> exp-Manage Experimental Packages -> 111. lr-mesen` and install the package
+2. **Find Correct ROM Game file**
+	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
+	* Example: the correct ROM to use with Contra 80s to use has a:
+		* Filename:  `Contra (U) [!].nes`
+		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
+	* Find where ever ROMs are found :mag: 👀 
+3.	**Unzip and Place HD Pack Folder in Correct Location & Play**
 	* place HD packs in folder:
 		*	`/home/pi/RetroPie/BIOS/HdPacks/`
 		* name the sub-directory with the HD pack for each game in a folder named directly after the ROM filename, example:
@@ -116,23 +130,28 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* Run the game in Mesen emulator:
 		*	`lr-mesen`
 			*	<img src="images/RaspPi-lr-mesen-1.png" width="40%">
-		*	RetroPie package can be installed from RetroPie-Extra:
-			*	https://github.com/Exarkuniv/RetroPie-Extra
 	* enable loading of HD Packs within the RetroArch menu while running the game
 		*	Press `Select+X(North)` to while playing to enter RetroArch menu
 			*	Go to `Core Options -> Video -> Enable HD Packs = On`
 			*	<img src="images/RaspPi-lr-mesen-enableHDPacks-1.png" width="40%">
+	* Other Settings - Recommended:
+		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
+		* :video_game: configure your gaming controller if needed
+
+<br>
   
 # 🙏 Credits
-Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though <ins>**over 20k lines of code**</ins> in the `hires.txt` file later, very little remains from that original effort from 2021.  Aclectico has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
+Contra 80s began as an update to the [“Contra: Remastered (Mesen Enhancement Pack)” by Aclectico](https://www.romhacking.net/forum/index.php?topic=33075.0), though <ins>**over 20k lines of code**</ins> in the `hires.txt` file later, very little remains from that original effort from 2021.  [Aclectico](https://www.romhacking.net/forum/index.php?action=profile;u=73380) has done some really cool stuff that opened my eyes as to what’s possible with Mesen HD Packs, and in particular his [Zelda: Remastered (Mesen HD Pack)](https://www.romhacking.net/forum/index.php?topic=31559.0) project is particularly awesome.
 
 The bulk of the code for Contra 80s was generated manually, although AI was used to help with a few select portions related to parallax background scrolling and animations using the `frameRange` functions.
 
-ChatGPT and Gemini were used to create most of the images used throughout, for the HD replacement graphics of backgrounds and character sprites.  Creating prompts that actually generated useful images took quite a bit of effort – which is a massive understatement.  I’m happy to report that AI isn’t nearly as close to being smart enough to defeat mankind anytime soon, despite what the news would have you believe.
+[ChatGPT](https://chat.openai.com/chat) and [Gemini](https://gemini.google.com/app) were used to create most of the images used throughout, for the HD replacement graphics of backgrounds and character sprites.  Creating prompts that actually generated useful images took quite a bit of effort – which is a massive understatement.  I’m happy to report that AI isn’t nearly as close to being smart enough to defeat mankind anytime soon, despite what the news would have you believe.
 
 Lastly, I must credit the entire 1980’s for being awesome – especially the movies: Predator, Aliens, Terminator, The Thing, and Star Wars.  Thanks to Arnold and Sly.  And of course, thanks to the legendary creators of the NES game masterpiece: Contra.
 
-# 🔗 Resources
+<br>
+
+# 🔗 Resource Links
 * File Hashing Utility (free) – for checking SHA1 hashes:
 	* [HashMyFiles: Calculate MD5/SHA1/CRC32 hash of files - Nirsoft.net](https://www.nirsoft.net/utils/hash_my_files.html)
 * Game Metadata / Scrape Images:
