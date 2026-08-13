@@ -6,7 +6,7 @@
 > **DOWNLOAD:** [Contra80s v1.0 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
 
 # Description
-> Contra 80s is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
+> **Contra 80s** is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
 > 
 > With the 40th anniversary of both Aliens and Predator upon us, time feels right to unleash this hard-hitting 80s update to this NES classic.  So lock & load, and remember… **_if it bleeds, we can kill it!_**  
 
@@ -55,7 +55,7 @@
 </details>
 
 
-# About the ROM Hack:
+# About the ROM Hack (Mesen HD Pack):
 > [!NOTE]
 > [Mesen](https://www.mesen.ca/) is a free Nintendo Entertainment System (NES) emulator.  [Mesen HD Packs](https://github.com/SourMesen/Mesen/blob/master/Docs/content/hdpacks/_index.md) are fan-made mods that replace a game’s original 8-bit graphics with high-definition textures, custom sprites, and enhanced audio in real time.  
 > 
@@ -70,6 +70,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	*	File SHA-1: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
 	*	File CRC32: `C50A8304`
  *	**Note**: :mag: ROM can be found where ever ROMs are found.  :suspect:
+ *	**Note 2**: there are different versions of this ROM (e.g. USA ,Japan, etc.), this step is to ensure you have correct ROM file that is compatible with Contra 80s.
 
 
 <br>
