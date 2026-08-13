@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Ho1-30w41RU">
-    <img src="images/Contra80s-LaunchTrailer-Thumb1a.png" width="30%" />
+    <img src="images/Contra80s-LaunchTrailer-Thumb-2-Embed.png" width="30%" />
   </a>
   <a href="https://www.youtube.com/watch?v=BvsUnWXC2Ls">
     <img src="https://img.youtube.com/vi/BvsUnWXC2Ls/maxresdefault.jpg" width="40%" />
