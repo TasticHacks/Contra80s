@@ -55,7 +55,7 @@
 </details>
 
 
-# About the ROM Hack (Mesen HD Pack):
+# 📦 About the ROM Hack (Mesen HD Pack):
 > [!NOTE]
 > [Mesen](https://www.mesen.ca/) is a free Nintendo Entertainment System (NES) emulator.  [Mesen HD Packs](https://github.com/SourMesen/Mesen/blob/master/Docs/content/hdpacks/_index.md) are fan-made mods that replace a game’s original 8-bit graphics with high-definition textures, custom sprites, and enhanced audio in real time.  
 > 
@@ -63,7 +63,7 @@
 > 
 This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mesen emulator.  Players 1 & 2 sprites have been replaced by Dutch (Arnold) from Predator and Rambo.  All 8 stage levels and enemies have been replaced with new HD backgrounds, inspired by various 80s movies.  Title cards have been added before stages, tying together a new storyline that weaves in the 80’s movies into a single game narrative.  
 
-## **ROM / ISO Information – this HD pack works with the following NES ROM:**
+## 💾 **ROM / ISO Information – this HD pack works with the following NES ROM:**
 * **`Contra (U) [!].nes`**
 	*	Database match: Contra (USA)
 	*	Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
