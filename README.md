@@ -105,7 +105,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* unzip and place the HD Pack folder in the correct location being used by the Mesen emulator for HD Packs.
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
 		*	ROM name:  **`Contra (U) [!].nes`**
-		*	Folder: `C:\Users\bob\Documents\Mesen2\HdPacks\Contra (U) [!]\hires.txt`
+		*	Folder: `C:\Users\bob\Documents\MesenCE\HdPacks\Contra (U) [!]\hires.txt`
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
 		* <img src="images/Mesen-EnableHDPacks-1.png" width="40%">
 	* Other Settings - Recommended:
