@@ -1,5 +1,5 @@
 # Contra 80s - by Tastic (Mesen HD Pack)
-<img src="images/Contra80s-Banner-2.png" width="60%" />
+<img src="images/Contra80s-Banner-2.png" width="70%" />
 
 ## ⬇️ Download
 > [!IMPORTANT]
@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Ho1-30w41RU">
-    <img src="images/Contra80s-LaunchTrailer-Thumb-2-Embed.png" width="30%" />
+    <img src="images/Contra80s-LaunchTrailer-Thumb-2-Embed.png" width="45%" />
   </a>
   <a href="https://www.youtube.com/watch?v=BvsUnWXC2Ls">
-    <img src="https://img.youtube.com/vi/BvsUnWXC2Ls/maxresdefault.jpg" width="40%" />
+    <img src="https://img.youtube.com/vi/BvsUnWXC2Ls/maxresdefault.jpg" width="45%" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 > [!NOTE]
 > [Mesen](https://www.mesen.ca/) is a free Nintendo Entertainment System (NES) emulator.  [Mesen HD Packs](https://github.com/SourMesen/Mesen/blob/master/Docs/content/hdpacks/_index.md) are fan-made mods that replace a game’s original 8-bit graphics with high-definition textures, custom sprites, and enhanced audio in real time.  
 > 
-> **Contra 80s** is a free Mesen HD Pack by developed by Tastic for the original Contra (1988) on the NES.  
+> **Contra 80s** is a free Mesen HD Pack developed by Tastic for the original Contra (1988) on the NES.  
 > 
 This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mesen emulator.  Players 1 & 2 sprites have been replaced by Dutch (Arnold) from Predator and Rambo.  All 8 stage levels and enemies have been replaced with new HD backgrounds, inspired by various 80s movies.  Title cards have been added before stages, tying together a new storyline that weaves in the 80’s movies into a single game narrative.  
 
@@ -88,7 +88,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
 >
-> <img src="images/Contra80s-QuickStart-3Steps-1.png" width="50%">
+> <img src="images/Contra80s-QuickStart-3Steps-1.png" width="60%">
 
 ## 🖥️ MS Windows - 3 Steps - Install and Play - More Detail:
 1. **Install the Mesen NES emulator**
