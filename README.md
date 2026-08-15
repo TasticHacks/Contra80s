@@ -4,6 +4,10 @@
 ## ⬇️ Download
 > [!IMPORTANT]
 > **DOWNLOAD:** [Contra80s v1.0 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
+> * What is Contra 80s?
+> 	* [Contra 80s – Launch Trailer | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=Ho1-30w41RU)
+> * Looks cool, so how do I play it?
+> 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=8OpUb03f5FA)
 
 # Description
 > **Contra 80s** is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
@@ -14,10 +18,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Ho1-30w41RU">
-    <img src="images/Contra80s-LaunchTrailer-Thumb-2-Embed.png" width="45%" />
+    <img src="images/Contra80s-LaunchTrailer-Thumb-3-Embedb.png" width="46%" />
   </a>
-  <a href="https://www.youtube.com/watch?v=BvsUnWXC2Ls">
-    <img src="https://img.youtube.com/vi/BvsUnWXC2Ls/maxresdefault.jpg" width="45%" />
+  <a href="https://www.youtube.com/watch?v=8OpUb03f5FA">
+    <img src="images/Contra80s-QuickStart-Thumb2b.png" width="46%" />
   </a>
 </p>
 
@@ -88,13 +92,16 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > 2. **Find Correct ROM Game file (unaltered Contra ROM)**
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
 >
+> * Looks cool, so how do I play it?
+> 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=8OpUb03f5FA)
+>
 > <img src="images/Contra80s-QuickStart-3Steps-1.png" width="60%">
 
 ## 🖥️ MS Windows - 3 Steps - Install and Play - More Detail:
 1. **Install the Mesen NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
 	* Downloads: https://www.mesen.ca/
-		* <img src="images/Mesen-Installs-Aug2026-1.png" width="20%">
+		* <img src="images/Mesen-Installs-Aug2026-1.png" width="40%">
 2. **Find Correct ROM Game file**
 	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
 	* Example: the correct ROM to use with Contra 80s to use has a:
