@@ -206,6 +206,7 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 * Contra 80’s – By Tastic (Mesen HD Pack):
 	* https://github.com/TasticHacks/Contra80s
 	* [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
+	* [Contra 80s - By Tastic (Mesen HD Pack) | ROMHacking.net](https://www.romhacking.net/hacks/9899/)
 * File Hashing Utility (free) – for checking SHA1 hashes:
 	* [HashMyFiles: Calculate MD5/SHA1/CRC32 hash of files - Nirsoft.net](https://www.nirsoft.net/utils/hash_my_files.html)
 * Game Metadata / Scrape Images:
