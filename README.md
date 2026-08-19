@@ -6,7 +6,8 @@
 > **DOWNLOAD:** [Contra80s v1.0 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
 > * What is Contra 80s?
 > 	* [Contra 80s – Launch Trailer | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=Ho1-30w41RU)
-> * Looks cool, so how do I play it?
+> * Looks cool, so how do I <ins>play it</ins>?
+> 	* <ins>Playable on</ins>:  `Windows, Mac, Linux, Mobile (iPhone/iPad/Android), Raspberry Pi, and more.` See:
 > 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=8OpUb03f5FA)
 > 	* [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
 
