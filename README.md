@@ -8,6 +8,7 @@
 > 	* [Contra 80s – Launch Trailer | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=Ho1-30w41RU)
 > * Looks cool, so how do I play it?
 > 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=8OpUb03f5FA)
+> 	* [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
 
 # Description
 > **Contra 80s** is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
@@ -25,6 +26,7 @@
   </a>
 </p>
 
+* [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
 
 
@@ -122,6 +124,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 
 ## 📱 Mobile Devices - RetroArch w Mesen Core Loaded - Usage / Install:
+> [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
 1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
 	* Download and install the **<ins>RetroArch emulator</ins>**, loading the **<ins>Mesen core</ins>**, and use it to play the Contra ROM game file.
 		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1.png" width="25%" /> </a>  <img src="images/iPad-RetroArch-LoadCore-Mesen-1.png" width="30%">
