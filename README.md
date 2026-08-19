@@ -10,6 +10,7 @@
 > 	* <ins>Playable on</ins>:  `Windows, Mac, Linux, Mobile (iPhone/iPad/Android), Raspberry Pi, and more.` See:
 > 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=8OpUb03f5FA)
 > 	* [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
+> 	* [Contra 80s - Raspberry Pi (RetroPie) Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
 
 # Description
 > **Contra 80s** is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
@@ -28,6 +29,7 @@
 </p>
 
 * [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
+* [Contra 80s - Raspberry Pi (RetroPie) Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
 
 
@@ -160,6 +162,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 <br>
 
 ## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
+> 	[Contra 80s - Raspberry Pi (RetroPie) Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
 If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
 1. **Install the Mesen NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
