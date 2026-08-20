@@ -148,9 +148,10 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* unzip and place the HD Pack folder in the correct location being used by the RetroArch's Mesen emulator for HD Packs.
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
 		*	ROM name:  **`Contra (U) [!].nes`**
-		*	<ins>Apple</ins>: `RetroArch\RetroArch\system\HdPacks\Contra (U) [!]\hires.txt`
+		*	[Apple](https://apps.apple.com/us/app/retroarch/id64995394330) - HdPacks folder: `\RetroArch\RetroArch\system\HdPacks\Contra (U) [!]\hires.txt`
 			*	<img src="images/iPad-HDPacks-FolderLocation-1a.png" width="30%">&nbsp;&nbsp; <img src="images/iPad-RetroArch-Contra80s-Playing-1.PNG" width="28%">
 		*	<ins>Note</ins>: you may have to create the `\HdPacks\` folder (case sensitive)
+		*	[Android](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1) - HdPacks folder: `\Internal storage\Android\media\com.retroarch.aarch64\RetroArch\system\HdPacks\`
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
 		* <img src="images/iPad-RetroArch-Mesen-Settings-1.PNG" width="35%">
 	* Other Settings - Recommended:
@@ -163,6 +164,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 ## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
 > 	[Contra 80s - Raspberry Pi (RetroPie) Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
+
 If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
 1. **Install the Mesen NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
