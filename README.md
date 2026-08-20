@@ -17,7 +17,7 @@
 > 
 > With the 40th anniversary of both Aliens and Predator upon us, time feels right to unleash this hard-hitting 80s update to this NES classic.  So lock & load, and remember… **_if it bleeds, we can kill it!_**  
 
-## 🎬 Videos - Launch Trailer & Quick Start Guide
+## 🎬 Videos - Launch Trailer & Quick Start Guides
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Ho1-30w41RU">
