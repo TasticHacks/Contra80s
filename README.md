@@ -122,7 +122,10 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 		* <img src="images/Mesen-EnableHDPacks-1.png" width="40%">
 	* Other Settings - Recommended:
 		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
+			*	Reduces sprite flickering that can happen
 		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
+		* Aspect Ratio = No Stretching
+			*	Contra was made to be played in 4:3 aspect ration, it looks a little weird when you try to stretch it.
 <br>
 
 
@@ -156,8 +159,11 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 		* <img src="images/iPad-RetroArch-Mesen-Settings-1.PNG" width="35%">
 	* Other Settings - Recommended:
 		* Remove Sprite limit, see `Settings -> NES -> Video -> Misc`
+			*	Reduces sprite flickering that can happen
 		* :video_game: `Settings -> NES -> Input`, configure your gaming controller if needed
 			*	**Game Controllers** - can be [connected to mobile devices](https://www.8bitdo.com/apple/) via Bluetooth typically, and configured in RetroArch
+		* Aspect Ratio = No Stretching
+			*	Contra was made to be played in 4:3 aspect ration, it looks a little weird when you try to stretch it.
 
 
 <br>
@@ -196,7 +202,10 @@ If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [
 			*	<img src="images/RaspPi-lr-mesen-enableHDPacks-1.png" width="40%">
 	* Other Settings - Recommended:
 		* Remove Sprite limit, see `Core Options -> Video -> Remove Sprite Limit = On`
+			*	Reduces sprite flickering that can happen
 		* :video_game: configure your gaming controller if needed
+		* Aspect Ratio = No Stretching
+			*	Contra was made to be played in 4:3 aspect ration, it looks a little weird when you try to stretch it.
 
 <br>
   
