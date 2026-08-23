@@ -5,12 +5,14 @@
 > [!IMPORTANT]
 > **DOWNLOAD:** [Contra80s v1.0 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
 > * What is Contra 80s?
-> 	* [Contra 80s – Launch Trailer | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=Ho1-30w41RU)
+> 	* [Contra 80s – Launch Trailer - YouTube.com](https://www.youtube.com/watch?v=Ho1-30w41RU)
 > * Looks cool, so how do I <ins>play it</ins>?
 > 	* <ins>Playable on</ins>:  `Windows, Mac, Linux, Mobile (iPhone/iPad/Android), Raspberry Pi, and more.` See:
-> 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=8OpUb03f5FA)
-> 	* [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
-> 	* [Contra 80s - Raspberry Pi (RetroPie) Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
+> 	* [Contra 80s – Quick Start Guide - YouTube.com](https://www.youtube.com/watch?v=8OpUb03f5FA)
+> 	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
+> 	* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
+> * 2 Player - Remote Co-Op - How To:
+> 	* [Contra 80s NetPlay: Remote Co-op on Raspberry Pi, iPad & More - YouTube.com](https://youtu.be/thqfVJ25uPw)
 
 # Description
 > **Contra 80s** is an HD graphics upgrade that reimagines Contra as an action-packed ’80s thrill ride!  Play as Dutch from Predator and Rambo as you battle through worlds inspired by iconic action, sci-fi, and horror films—including Predator, Aliens, The Terminator, The Thing, and The Empire Strikes Back.
@@ -28,8 +30,8 @@
   </a>
 </p>
 
-* [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
-* [Contra 80s - Raspberry Pi (RetroPie) Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
+* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
+* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
 
 
