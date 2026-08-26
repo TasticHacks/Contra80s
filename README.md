@@ -132,7 +132,8 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 
 ## 📱 Mobile Devices - RetroArch w Mesen Core Loaded - Usage / Install:
-> [Contra 80s - iPhone & iPad Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
+> * [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
+> * [YouTube - Android and Mesen - How to Get Mesen HD Texture Packs to Work on Android Devices ](https://www.youtube.com/watch?v=uWxx9YF5wC8)
 1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
 	* Download and install the **<ins>RetroArch emulator</ins>**, loading the **<ins>Mesen core</ins>**, and use it to play the Contra ROM game file.
 		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1.png" width="25%" /> </a>  <img src="images/iPad-RetroArch-LoadCore-Mesen-1.png" width="30%">
@@ -171,7 +172,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 <br>
 
 ## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
-> 	[Contra 80s - Raspberry Pi (RetroPie) Quick Start | By Tastic (Mesen HD Pack) - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
+> 	[Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
 
 If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
 1. **Install the Mesen NES emulator**
@@ -252,5 +253,8 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 	* [RetroArch Plus - Apps on Google Play](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1)
 	* [RetroArch on Steam](https://store.steampowered.com/app/1118310/RetroArch/)
 	* [RetroArch - App on Amazon Appstore](https://www.amazon.com/dp/B09753XRVF)
+* Videos - Bobile and Mesen HD Packs:
+	* [YouTube - Android and Mesen - How to Get Mesen HD Texture Packs to Work on Android Devices ](https://www.youtube.com/watch?v=uWxx9YF5wC8)
+	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
 
 
