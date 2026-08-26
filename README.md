@@ -253,7 +253,7 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 	* [RetroArch Plus - Apps on Google Play](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1)
 	* [RetroArch on Steam](https://store.steampowered.com/app/1118310/RetroArch/)
 	* [RetroArch - App on Amazon Appstore](https://www.amazon.com/dp/B09753XRVF)
-* Videos - Bobile and Mesen HD Packs:
+* Videos - Mobile and Mesen HD Packs:
 	* [YouTube - Android and Mesen - How to Get Mesen HD Texture Packs to Work on Android Devices ](https://www.youtube.com/watch?v=uWxx9YF5wC8)
 	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
 
