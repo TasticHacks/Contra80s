@@ -30,8 +30,8 @@
   </a>
 </p>
 
-* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=MtYsP1rTNnM)
-* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=0oglfzoMEZM)
+* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=0isvjNKZwxs)
+* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=ZN4TibtKmI8)
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLbcraPnoA1d8)
 
 
