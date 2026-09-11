@@ -3,7 +3,7 @@
 
 ## ⬇️ Download
 > [!IMPORTANT]
-> **DOWNLOAD:** [Contra80s v1.3 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
+> 📥 **DOWNLOAD:** [Contra80s v1.3 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
 > * What is Contra 80s?
 > 	* [Contra 80s – Launch Trailer - YouTube.com](https://www.youtube.com/watch?v=b_ThB0pHC-o)
 > * Looks cool, so how do I <ins>play it</ins>?
@@ -110,7 +110,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 1. **Install the Mesen NES emulator**
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
 	* Downloads: https://www.mesen.ca/
-		* <img src="images/Mesen-Installs-Aug2026-1.png" width="20%">
+		* <img src="images/Mesen-Installs-Aug2026-1.png" width="25%">
 2. **Find Correct ROM Game file**
 	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
 	* Example: the correct ROM to use with Contra 80s to use has a:
@@ -122,6 +122,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
 		*	ROM name:  **`Contra (U) [!].nes`**
 		*	Folder: `C:\Users\bob\Documents\MesenCE\HdPacks\Contra (U) [!]\hires.txt`
+		*	<img src="images/Contra80s-Windows-HDPacks_Folder_Copy-1.png" width="40%">
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
 		* <img src="images/Mesen-EnableHDPacks-1.png" width="40%">
 	* Other Settings - Recommended:
@@ -157,7 +158,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	* The folder name must match the ROM game file name exactly (minus the .nes extension).  So, for example:
 		*	ROM name:  **`Contra (U) [!].nes`**
 		*	[Apple](https://apps.apple.com/us/app/retroarch/id64995394330) - HdPacks folder: `\RetroArch\RetroArch\system\HdPacks\Contra (U) [!]\hires.txt`
-			*	<img src="images/iPad-HDPacks-FolderLocation-1a.png" width="30%">&nbsp;&nbsp; <img src="images/iPad-RetroArch-Contra80s-Playing-1.PNG" width="28%">
+			*	<img src="images/iPad-HDPacks-FolderLocation-1b.png" width="30%">&nbsp;&nbsp; <img src="images/iPad-RetroArch-Contra80s-Playing-1.PNG" width="28%">
 		*	<ins>Note</ins>: you may have to create the `\HdPacks\` folder (case sensitive)
 		*	[Android](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1) - HdPacks folder: `\Internal storage\Android\media\com.retroarch.aarch64\RetroArch\system\HdPacks\`
 	* Also, make sure the `“Enable HD packs”` is checked in the Mesen emulator settings:
@@ -187,13 +188,16 @@ If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [
 	* Example: the correct ROM to use with Contra 80s to use has a:
 		* Filename:  `Contra (U) [!].nes`
 		* Matches the SHA1 hash: `C9EA66BB7CB30AD5343F1721B1D4D3219859319B`
-	* Find where ever ROMs are found :mag: 👀 
+	* Find where ever ROMs are found :mag: 👀
+	* For Raspberry Pi, place the ROM in: `/home/pi/RetroPie/nes/`:
+		*	<img src="images/Contra80s-RaspPi-ROM_Folder-1.png" width="30%">
 3.	**Unzip and Place HD Pack Folder in Correct Location & Play**
 	* place HD packs in folder:
 		*	`/home/pi/RetroPie/BIOS/HdPacks/`
 		* name the sub-directory with the HD pack for each game in a folder named directly after the ROM filename, example:
 			*	ROM name:  `Contra (U) [!].nes`
 			*	Folder:  `/home/pi/RetroPie/BIOS/HdPacks/Contra (U) [!]/hires.txt`
+		* <img src="images/Contra80s-RaspPi-HDPacks_Folder_Copy-1.png" width="60%">
 	* <ins>**Renaming ROM Filename**</ins> - So if you want to rename the ROM to something else, you must also rename the HD pack folder name the same:
 		*	New ROM name:  `Contra80s.nes`
 		*	New HD pack folder path:  `/home/pi/RetroPie/BIOS/HdPacks/Contra80s/hires.txt`
@@ -228,7 +232,7 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 # 🔗 Resource Links
 * Contra 80’s – By Tastic (Mesen HD Pack):
 	* https://github.com/TasticHacks/Contra80s
-	* [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLB8hwzCr_f_0)
+	* [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLbcraPnoA1d8)
 	* [Contra 80s - By Tastic (Mesen HD Pack) | ROMHacking.net](https://www.romhacking.net/hacks/9899/)
 * File Hashing Utility (free) – for checking SHA1 hashes:
 	* [HashMyFiles: Calculate MD5/SHA1/CRC32 hash of files - Nirsoft.net](https://www.nirsoft.net/utils/hash_my_files.html)
