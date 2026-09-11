@@ -88,6 +88,8 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 	*	File CRC32: `C50A8304`
  *	<ins>**Note**</ins>: :mag: ROM can be found where ever ROMs are found.  :suspect:
  *	<ins>**Note 2**</ins>: there are different versions of this ROM (e.g. USA ,Japan, etc.), this step is to ensure you have correct ROM file that is compatible with Contra 80s.
+ *	<ins>Verifying ROM</ins> - you can verify you have the correct compatible Contra ROM file with free tools like [NirSoft HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html):
+	*	 <img src="images/Contra80s-Hash-Correct_ROM-1.png" width="50%">
 
 
 <br>
@@ -136,7 +138,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > * [YouTube - Android and Mesen - How to Get Mesen HD Texture Packs to Work on Android Devices ](https://www.youtube.com/watch?v=uWxx9YF5wC8)
 1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
 	* Download and install the **<ins>RetroArch emulator</ins>**, loading the **<ins>Mesen core</ins>**, and use it to play the Contra ROM game file.
-		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1.png" width="25%" /> </a>  <img src="images/iPad-RetroArch-LoadCore-Mesen-1.png" width="30%">
+		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1a.png" width="40%" />
 	* Mobile apps:
 		* https://www.retroarch.com/
 		* ‎[RetroArch App - App Store - Apple.com](https://apps.apple.com/us/app/retroarch/id6499539433)
@@ -179,7 +181,7 @@ If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [
 	* Download and install the Mesen NES emulator and use it to play the Contra ROM game file.
 	* For RetroPie, use the [lr-mesen](https://github.com/libretro/Mesen) emulator
 	* In EmulationStation, go to `RETROPIE -> RETROPIE SETUP -> Manage packages -> exp-Manage Experimental Packages -> 111. lr-mesen` and install the package
-		* <img src="images/RaspPi-Install_lr-Mesen-1a.png" width="40%">
+		* <img src="images/RaspPi-Install_lr-Mesen-1b.png" width="50%">
 2. **Find Correct ROM Game file**
 	* be sure to find that correct game ROM file that matches the specified [SHA1 hash](https://www.nirsoft.net/utils/hash_my_files.html) and play it using the Mesen emulator.  This ROM is the **original, _unaltered_ Nintendo game**.
 	* Example: the correct ROM to use with Contra 80s to use has a:
