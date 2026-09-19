@@ -8,7 +8,7 @@
 > 	* [Contra 80s – Launch Trailer - YouTube.com](https://www.youtube.com/watch?v=b_ThB0pHC-o)
 > * Looks cool, so how do I <ins>play it</ins>?
 > 	* <ins>Playable on</ins>:  `Windows, Mac, Linux, Mobile (iPhone/iPad/Android), Raspberry Pi, and more.` See:
-> 	* [Contra 80s – Quick Start Guide - YouTube.com](https://www.youtube.com/watch?v=AGHcEullmGs)
+> 	* [Contra 80s – Quick Start Guide - YouTube.com](https://youtu.be/EglQvXRVGMo)
 > 	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=0isvjNKZwxs)
 > 	* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=ZN4TibtKmI8)
 > * 2 Player - Remote Co-Op - How To:
@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/watch?v=b_ThB0pHC-o">
     <img src="images/Contra80s-LaunchTrailer-Thumb-3-Embedb.png" width="46%" />
   </a>
-  <a href="https://www.youtube.com/watch?v=AGHcEullmGs">
+  <a href="https://youtu.be/EglQvXRVGMo">
     <img src="images/Contra80s-QuickStart-Thumb2b.png" width="46%" />
   </a>
 </p>
@@ -102,7 +102,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > 3. **Unzip and Place HD Pack Folder in Correct Location & Play**
 >
 > * Looks cool, so how do I play it?
-> 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://www.youtube.com/watch?v=AGHcEullmGs)
+> 	* [Contra 80s – Quick Start Guide | Mesen HD Pack by Tastic - YouTube.com](https://youtu.be/EglQvXRVGMo)
 >
 > <img src="images/Contra80s-QuickStart-3Steps-1.png" width="60%">
 
