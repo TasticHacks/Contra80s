@@ -9,7 +9,7 @@
 > * Looks cool, so how do I <ins>play it</ins>?
 > 	* <ins>Playable on</ins>:  `Windows, Mac, Linux, Mobile (iPhone/iPad/Android), Raspberry Pi, and more.` See:
 > 	* [Contra 80s – Quick Start Guide - YouTube.com](https://youtu.be/EglQvXRVGMo)
-> 	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=0isvjNKZwxs)
+> 	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
 > 	* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=ZN4TibtKmI8)
 > * 2 Player - Remote Co-Op - How To:
 > 	* [Contra 80s NetPlay: Remote Co-op on Raspberry Pi, iPad & More - YouTube.com](https://www.youtube.com/watch?v=JH6WFHonrqE)
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=0isvjNKZwxs)
+* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
 * [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=ZN4TibtKmI8)
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLbcraPnoA1d8)
 
@@ -135,7 +135,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 
 ## 📱 Mobile Devices - RetroArch w Mesen Core Loaded - Usage / Install:
-> * [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=0isvjNKZwxs)
+> * [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
 > * [YouTube - Android and Mesen - How to Get Mesen HD Texture Packs to Work on Android Devices ](https://www.youtube.com/watch?v=uWxx9YF5wC8)
 1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
 	* Download and install the **<ins>RetroArch emulator</ins>**, loading the **<ins>Mesen core</ins>**, and use it to play the Contra ROM game file.
