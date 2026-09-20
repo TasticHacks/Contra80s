@@ -10,7 +10,7 @@
 > 	* <ins>Playable on</ins>:  `Windows, Mac, Linux, Mobile (iPhone/iPad/Android), Raspberry Pi, and more.` See:
 > 	* [Contra 80s – Quick Start Guide - YouTube.com](https://youtu.be/EglQvXRVGMo)
 > 	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
-> 	* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=ZN4TibtKmI8)
+> 	* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://youtu.be/Zo_BK6TummA)
 > * 2 Player - Remote Co-Op - How To:
 > 	* [Contra 80s NetPlay: Remote Co-op on Raspberry Pi, iPad & More - YouTube.com](https://www.youtube.com/watch?v=JH6WFHonrqE)
 
@@ -31,7 +31,7 @@
 </p>
 
 * [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
-* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=ZN4TibtKmI8)
+* [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://youtu.be/Zo_BK6TummA)
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLbcraPnoA1d8)
 
 
@@ -175,7 +175,7 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 <br>
 
 ## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
-> 	[Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://www.youtube.com/watch?v=ZN4TibtKmI8)
+> 	[Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://youtu.be/Zo_BK6TummA)
 
 If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
 1. **Install the Mesen NES emulator**
