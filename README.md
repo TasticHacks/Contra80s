@@ -261,6 +261,6 @@ Lastly, I must credit the entire 1980’s for being awesome – especially the m
 	* [RetroArch - App on Amazon Appstore](https://www.amazon.com/dp/B09753XRVF)
 * Videos - Mobile and Mesen HD Packs:
 	* [YouTube - Android and Mesen - How to Get Mesen HD Texture Packs to Work on Android Devices ](https://www.youtube.com/watch?v=uWxx9YF5wC8)
-	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://www.youtube.com/watch?v=0isvjNKZwxs)
+	* [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
 
 
