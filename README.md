@@ -3,7 +3,7 @@
 
 ## ⬇️ Download
 > [!IMPORTANT]
-> 📥 **DOWNLOAD:** [Contra80s v1.3.2 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
+> 📥 **DOWNLOAD:** [Contra80s v1.4 - Mesen HD Pack.zip](https://github.com/TasticHacks/Contra80s/releases/latest/download/Contra80s.zip)
 > * What is Contra 80s?
 > 	* [Contra 80s – Launch Trailer - YouTube.com](https://www.youtube.com/watch?v=b_ThB0pHC-o)
 > * Looks cool, so how do I <ins>play it</ins>?
