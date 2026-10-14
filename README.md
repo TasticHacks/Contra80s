@@ -23,10 +23,13 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=b_ThB0pHC-o">
-    <img src="images/Contra80s-LaunchTrailer-Thumb-3-Embedb.png" width="46%" />
+    <img src="images/Contra80s-LaunchTrailer-Thumb-3-Embedb.png" width="33%" />
   </a>
   <a href="https://youtu.be/EglQvXRVGMo">
-    <img src="images/Contra80s-QuickStart-Thumb2b.png" width="46%" />
+    <img src="images/Contra80s-QuickStart-Thumb2b.png" width="33%" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=lEM_e-EYLEc&list=PLIKqLmcfFRnM&index=1">
+    <img src="images/Contra80s-EasterEggs-Thumb-1-Embed.png" width="33%" />
   </a>
 </p>
 
