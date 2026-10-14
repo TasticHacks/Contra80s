@@ -144,6 +144,8 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 		* https://www.retroarch.com/
 		* ‎[RetroArch App - App Store - Apple.com](https://apps.apple.com/us/app/retroarch/id6499539433)
 		* [RetroArch Plus - Apps on Google Play](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US&pli=1)
+			* So apparently Android doesn't download the cores automatically, so go to:
+				* `Load Core -> Download a Core ->` Click on `Nintendo - NES / Famicom (Mesen)`
 		* [RetroArch on Steam](https://store.steampowered.com/app/1118310/RetroArch/)
 		* [RetroArch - App on Amazon Appstore](https://www.amazon.com/dp/B09753XRVF)
 
