@@ -35,6 +35,7 @@
 </p>
 
 * [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
+* [Contra 80s - Android Quick Start - YouTube.com](https://youtu.be/RPq5CrwSjRM)
 * [Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://youtu.be/Zo_BK6TummA)
 * [YouTube Playlist - Contra 80s](https://www.youtube.com/playlist?list=PLbcraPnoA1d8)
 
@@ -142,6 +143,15 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 > * [Contra 80s - iPhone & iPad Quick Start - YouTube.com](https://youtu.be/B3Qp3T8y6bM)
 > * [Contra 80s - Android Quick Start - YouTube.com](https://youtu.be/RPq5CrwSjRM)
 > * [YouTube - Android and Mesen - How to Get Mesen HD Texture Packs to Work on Android Devices ](https://www.youtube.com/watch?v=uWxx9YF5wC8)
+<p align="left">
+  <a href="https://youtu.be/RPq5CrwSjRM">
+    <img src="images/Contra80s-QuickStart-Android-Thumb-1-Embed.png" width="30%" />
+  </a>
+  <a href="https://youtu.be/B3Qp3T8y6bM">
+    <img src="images/Contra80s-QuickStart-iPhone-Thumb-1-Embed.PNG" width="30%" />
+  </a>
+</p>
+
 1. **Install the **RetroArch** Emulator Frontend - Loading the Mesen core**
 	* Download and install the **<ins>RetroArch emulator</ins>**, loading the **<ins>Mesen core</ins>**, and use it to play the Contra ROM game file.
 		* <a href="https://apps.apple.com/us/app/retroarch/id6499539433"><img src="images/iPad_app-RetroArch-AppStore-1a.png" width="40%" />
@@ -183,6 +193,11 @@ This HD pack is 2x scale, so it plays at 512x480px default resolution in the Mes
 
 ## 🕹️ RetroPie (Raspberry Pi) - Usage / Install:
 > 	[Contra 80s - Raspberry Pi (RetroPie) Quick Start - YouTube.com](https://youtu.be/Zo_BK6TummA)
+<p align="left">
+  <a href="https://youtu.be/Zo_BK6TummA">
+    <img src="images/Contra80s-QuickStart-RaspPi-Thumb-1-Embed.PNG" width="31%" />
+  </a>
+</p>
 
 If you’re like me, and like doing your retro gaming on a Raspberry Pi (using [RetroPie](https://retropie.org.uk/)), then you can do this by:
 1. **Install the Mesen NES emulator**
